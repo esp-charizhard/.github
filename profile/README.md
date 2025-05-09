@@ -7,7 +7,7 @@ This organization is home to several projects surrounding the charizhard project
 | Repository                      | Description                                                |
 | ------------------------------- | ---------------------------------------------------------- |
 | [esp-charizhard/charizhard]     | The charizhard software with Wireguard and Rust on esp32   |
-| [esp-charizhard/charizhard-ota] | The OTA server-side software architecture for chatizhard   |
+| [esp-charizhard/charizhard-ota] | The OTA server-side software architecture for charizhard   |
 | [esp-charizhard/ch-ansible]     | Configuration files to deploy the infrastructure           |
 | [esp-charizhard/charizhard-otp] | The OTP server-side software for charizhard                |
 
